@@ -32,4 +32,4 @@ https://github.com/themikhailova/trackingYoloKalman/assets/91223359/d0eeab5d-005
    - Если расстояние меньше 50 пикселей, то происходит обновление трека. Иначе: создается новый трек  
 
 
-На Google Disk выложены взодные видео и реузьтаты работы на них обеих моделей: https://drive.google.com/drive/folders/1XoThU4ehMp9OaxCQj_fgaIjM9cGI3duS?usp=sharing  
+На Google Disk выложены входные видео и результаты работы на них обеих моделей: https://drive.google.com/drive/folders/1XoThU4ehMp9OaxCQj_fgaIjM9cGI3duS?usp=sharing  
