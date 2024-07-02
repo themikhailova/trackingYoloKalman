@@ -33,3 +33,5 @@ https://github.com/themikhailova/trackingYoloKalman/assets/91223359/d0eeab5d-005
 
 
 На Google Disk выложены входные видео и результаты работы на них обеих моделей: https://drive.google.com/drive/folders/1XoThU4ehMp9OaxCQj_fgaIjM9cGI3duS?usp=sharing  
+
+Дополнительно: приятная статья со сравнением моделей yolov5 и yolov8 https://yolov8.org/yolov5-vs-yolov8/
